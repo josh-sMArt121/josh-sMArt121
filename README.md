@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josh-sMArt121
-- 👀 I’m interested in Supply Chain Optimisation 
+- 👀 I’m interested in Supply Chain Optimisation (SCO)
 - 🌱 I’m currently learning Quantum Computing 
-- 💞️ I’m looking to collaborate on Quantum Programming
+- 💞️ I’m looking to collaborate on SCO softwares development.
 - 📫 How to reach me joshuayirenkyismart@gmail.com 
 
 <!---
